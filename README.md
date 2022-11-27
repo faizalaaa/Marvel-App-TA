@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Penugasan Akhir PPPB 2022
+
+Made by [Faizal Tri Ardhani Wijaya - 21120120140069](https://instagram.com/faizalaaa_).
+
 ## Available Scripts
 
 In the project directory, you can run:
